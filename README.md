@@ -2,6 +2,8 @@
 
 A Scriptable widget for iOS that displays real-time EUR to USDC conversion rates across multiple blockchain networks.
 
+![IMG_9610 (1)](https://github.com/user-attachments/assets/a04698fd-6419-4ce0-a365-a06c36dabc28)
+
 ## Features
 
 - **Multi-chain support**: Shows conversion rates for Mainnet, Gnosis, Polygon, Arbitrum, and Linea
